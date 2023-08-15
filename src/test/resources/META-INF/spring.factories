@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.kosasih.\
+    equiconnect.config.TestContainersSpringContextCustomizerFactory,com.kosasih.\
+    equiconnect.config.SqlTestContainersSpringContextCustomizerFactory,com.\
+    kosasih.equiconnect.config.KafkaTestContainersSpringContextCustomizerFactory
